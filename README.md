@@ -2,8 +2,6 @@
 
 Hey everyone, I'm Ajithesh and this is my first ever project with Hackclub!
 
-**I have had so much fun learning HTML and Tailwind.css!**
-
 This personal project has:
 - A simple HTML structure with a heading and an image
 - Some Tailwind class additions for design
